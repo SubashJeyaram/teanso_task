@@ -1,1 +1,0 @@
-# teanso_task
