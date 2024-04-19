@@ -1,0 +1,30 @@
+.main{
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	font-family: serif;
+}
+
+.name_css{
+	display: flex;
+}
+
+.name_first{
+	margin-left: 26%;
+	width: 24%;
+}
+.name_last{
+	width: 24%;
+	margin-left: 2%;
+}
+.email_css{
+	width: 50%;
+	margin-left: 26%;
+}
+.hidden{
+  display: none;
+}
+.btn_reg{
+	width: 20%;
+	height: 5%;
+}
